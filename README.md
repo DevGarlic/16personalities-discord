@@ -4,7 +4,7 @@
 ### How to build 💻
 #### 모듈 다운
 ```python
-pip install requests bs4 lxml pandas discord enum
+requests bs4 lxml pandas discord enum
 ```
 #### 토큰 수정
 ```python
