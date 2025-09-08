@@ -1,5 +1,5 @@
 # Example of using 16personalities-API
-2021 디랩 코드 페어 우승작 🏆
+2022 디랩 코드 페어 우승작 🏆
 디스코드 봇을 통한 [16personalities api wrapper](https://github.com/DevGarlic/16personalities-API) 예시 사용작
 ### How to build 💻
 #### 모듈 다운
